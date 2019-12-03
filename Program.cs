@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //test af git
             Console.WriteLine("This is a test of Git and Github - POHE");
+            Console.WriteLine("This is written from Luop");
             Console.ReadLine();
         }
     }
